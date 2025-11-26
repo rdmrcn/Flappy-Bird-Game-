@@ -1,7 +1,5 @@
-# Flappy-Bird-Game-
-Here is my Flappy Bird Game that I made with .NET6 from Scratch
 # Flappy Bird (C# .NET 6)
-
+-Here is my Flappy Bird Game that I made with .NET6 from Scratch
 A simple recreation of **Flappy Bird** built entirely with **pure C#** using **Windows Forms** and the **.NET 6 framework**.
 
 ## 🧩 Tech Stack
