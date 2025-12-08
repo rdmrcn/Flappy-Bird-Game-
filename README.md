@@ -19,5 +19,6 @@ You can try the game here:
 1. Download the repository or clone it:
    ```bash
    git clone https://github.com/<yourusername>/FlappyBird-CSharp.git
-(<img width="400" height="600" alt="Screenshot 2025-12-04 220442" src="https://github.com/user-attachments/assets/bb5ecf82-fd6a-4da0-abb5-c0afd8ffcd6e" />)
+
 (<img width="1000" height="1200" alt="Screenshot 2025-12-04 221054" src="https://github.com/user-attachments/assets/161c3592-a374-467e-8eb3-d23a2c931a53" />)
+(<img width="400" height="600" alt="Screenshot 2025-12-04 220442" src="https://github.com/user-attachments/assets/bb5ecf82-fd6a-4da0-abb5-c0afd8ffcd6e" />)
